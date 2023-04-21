@@ -120,7 +120,7 @@ function Login() {
             </div>
             <div className="two">
               <label>
-                <a href="#">Forgot password?</a>
+                <a href="#">Forgott password?</a>
               </label>
             </div>
           </div>

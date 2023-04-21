@@ -116,7 +116,7 @@ function Login() {
           <div className="two-col">
             <div className="one">
               <input type="checkbox" name="" id="check" />
-              <label htmlFor="check"> Rememberd Me</label>
+              <label htmlFor="check"> Remembderd Me</label>
             </div>
             <div className="two">
               <label>
